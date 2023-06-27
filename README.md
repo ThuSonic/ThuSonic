@@ -3,7 +3,7 @@
 - Estou estudando na [Alura](https://ww.alura.com.br).
 - Estou aprendendo a linguagem javascript.
 
-### Você pode entrar em contato comigo por
+### **Você pode entrar em contato comigo por** 📡
 
 e-mail: thusonico13@gmail.com
 
